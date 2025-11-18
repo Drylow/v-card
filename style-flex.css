@@ -17,8 +17,8 @@ body {
     padding: 30px;
     border: 2px solid #30363d;
     border-radius: 12px;
-    background-color: #161b22;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0);
+    background-color: rgba(22, 27, 34, 0.5);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     text-align: center;
 }
 
@@ -96,5 +96,6 @@ body {
     height: 100px;
 }
 }
+
 
 
