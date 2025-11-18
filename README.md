@@ -4,8 +4,6 @@
 
 This repository contains the source code for a simple, static, and responsive virtual business card (v-card), dedicated to the renowned League of Legends professional player and streamer, **TheBausffs** (Simon Hofverberg).
 
-The purpose of this page is to serve as a digital anchor (link-in-bio) for the player. It provides a quick introduction to his unique brand and centralizes the links to his main streaming and social media platforms, making it easy for his community to follow him.
-
 ## 🌟 Context and Digital Identity
 
 TheBausffs is known for his signature aggressive playstyle as a Top Laner, particularly with his Full AD Sion build, and is the originator of the famous **"Bausen Law."** This v-card captures the essence of his brand:
