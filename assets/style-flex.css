@@ -83,11 +83,14 @@ body {
 
 @media screen and (max-width: 600px)
 {
-    .vcard {
-        width: 90%;
-        padding: 15px;
-        box-sizing: border-box;
-    }
+body {
+    background-image: url(https://media1.tenor.com/m/RH8l-lu-TzsAAAAd/we-shilling.gif)
+}
+.vcard {
+    width: 90%;
+    padding: 15px;
+    box-sizing: border-box;
+}
 .info-section {
     text-align: center;
 }
@@ -96,3 +99,4 @@ body {
     height: 100px;
 }
 }
+
