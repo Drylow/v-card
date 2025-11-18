@@ -1,5 +1,5 @@
 body {
-    background-color: #0d1117;
+    background-image: url(https://images-ext-1.discordapp.net/external/rNESIZpgj8ZdLZbNAmxGrF0xLLyV9plOiAB9uMSCYB8/https/media.tenor.com/JWAifekTghQAAAAM/thebaus-baussi.gif?width=165&height=56);
     color: #c9d1d9;
     font-family: sans-serif;
     display: flex;
@@ -17,7 +17,7 @@ body {
     padding: 30px;
     border: 2px solid #30363d;
     border-radius: 12px;
-    background-color: #161b22;
+    background-color: rgba(22, 27, 34, 0.9);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
     text-align: center;
 }
@@ -79,4 +79,20 @@ body {
 
 .contact-section a:hover {
     text-decoration: underline;
+}
+
+@media screen and (max-width: 600px)
+{
+    .vcard {
+        width: 90%;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+.info-section {
+    text-align: center;
+}
+.avatar {
+    width: 100px;
+    height: 100px;
+}
 }
