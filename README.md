@@ -51,7 +51,14 @@ This project is a minimalist static web application.
 
 The repository is organized in a simple, standard manner for a static project:
 
-v-card/ ├── index.html # The main v-card file. ├── assets/ │ ├── css/ # Contains CSS style files. │ └── images/ # Contains the profile picture and other media. └── README.md # This file.
+```bash
+v-card/
+├── index.html        # The main v-card file.
+├── assets/
+│   ├── css/          # Contains CSS style files.
+│   └── images/       # Contains the profile picture and other media.
+└── README.md         # This file.
+```
 
 ## 🚀 Usage and Deployment
 
